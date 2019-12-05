@@ -1,0 +1,19 @@
+{
+  "name": "parcel.saintkim12.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "marked": "^0.7.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "lighterhtml": "^2.0.7"
+  }
+}
